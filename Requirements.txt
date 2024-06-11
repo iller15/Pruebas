@@ -1,0 +1,5 @@
+Requirements:
+	tts:
+	   -pip install deepgram-sdk //tts deppgram 
+	NLP:
+	   -NLTK (buscar install)
